@@ -2,7 +2,7 @@
 Samsung Notes Installer packages for PCs running Windows
 
 ## **Samsung Notes v4.3.150.0**
-_.msixbundle_ and ._zip_ package included
+_.msixbundle_ package
 Compatible on _x64_ and/or _ARM_ devices running Windows 10 or later
 
 #### **Why is this archived?**
